@@ -2,8 +2,8 @@
 //  WaveTests.swift
 //  WaveTests
 //
-//  Created by Vendela Larsson on 12/10/15.
-//  Copyright © 2015 wave. All rights reserved.
+//  Created by Matthew Russo on 10/27/15.
+//  Copyright © 2015 Matthew Russo. All rights reserved.
 //
 
 import XCTest
