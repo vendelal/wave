@@ -132,6 +132,7 @@ class ViewController: UIViewController {
             let freqPercentage = (Float(horizontalPercentage) + abs(Float(verticalPercentage)) - 1) / 2.0
             
             fm.frequency.value = fm.frequency.maximum * freqPercentage
+    
             fm.play()
             
         }
